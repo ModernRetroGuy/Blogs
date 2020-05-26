@@ -1,3 +1,5 @@
+[Discussion here](https://www.reddit.com/r/System76/comments/gqsavv/the_lemur_pro_a_pretty_extensive_review_from_a/)
+
 *A TL;DR will be included at the bottom of this post.*
 
 *This post will focus on the hardware of the System76 Lemur Pro. I understand that when I'm talking about the Lemur Pro, I'm pretty much also talking about the Clevo L140CU / L141CU.*
